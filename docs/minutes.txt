@@ -1,0 +1,36 @@
+Minutes of meetings / list of major changes
+
+First given assessment notification
+-since we had both already written basic hangman game code the previous lesson, we decided upon using sasha's code, becasue it was able to read from a file.
+-decided upon extra features of high scores and phrase editing
+
+early meetings
+-rob already had basic gui
+-needed expansion for extra scenes/features
+-started assigning sections of work
+    -> sasha libraryifying gui/game code
+    -> rob name/phrase/score saving
+
+subsequent meetings
+-discussed current progress of work
+    -> library was complete
+    -> game mostly complete, require final polish
+    -> name saving complete
+    -> highscore readout finished, not properly        implemented
+    -> phrase saving in progress
+
+-added another extra feature, multiplayer
+
+
+nearing completion meetings
+-discussed potential aesthetic themes
+-expanded on phrase editing, decided on search-style implementation of deletion
+-discussed scrapping deletion feature due to limited time availiable
+
+
+---------------------------------
+OTHER THINGS THAT ARE TODO @ 23/3
+---------------------------------
+*add highscores (not implemented) to the known issues list.
+
+

@@ -1,0 +1,3 @@
+fullscreen=False
+name=Rob
+difficulty=easy
